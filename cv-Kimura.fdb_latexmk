@@ -1,9 +1,9 @@
 # Fdb version 3
-["dvipdf"] 1634094895 "cv-Kimura.dvi" "cv-Kimura.pdf" "cv-Kimura" 1634094895
-  "cv-Kimura.dvi" 1634094895 17300 84f5b165e3942bf7fbc7dfa7de989514 "latex"
+["dvipdf"] 1638254932 "cv-Kimura.dvi" "cv-Kimura.pdf" "cv-Kimura" 1638254932
+  "cv-Kimura.dvi" 1638254932 17660 b795fabf899a44d02560c9208dd5558e "latex"
   (generated)
   "cv-Kimura.pdf"
-["latex"] 1634094895 "cv-Kimura.tex" "cv-Kimura.dvi" "cv-Kimura" 1634094895
+["latex"] 1638254931 "cv-Kimura.tex" "cv-Kimura.dvi" "cv-Kimura" 1638254932
   "/usr/local/texlive/2021/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2021/texmf-dist/fonts/tfm/adobe/palatino/pplb9d.tfm" 1136768653 5972 3c3b0ad6e88dfd1de0d685b95994e6d4 ""
   "/usr/local/texlive/2021/texmf-dist/fonts/tfm/adobe/palatino/pplr9d.tfm" 1136768653 6952 fcebd9505ff25166f6bdc98f5d26741b ""
@@ -73,11 +73,11 @@
   "/usr/local/texlive/2021/texmf-dist/web2c/texmf.cnf" 1616443989 39972 3d6bb4d9d719e93193fa020b58adf5d4 ""
   "/usr/local/texlive/2021/texmf-var/web2c/euptex/uplatex.fmt" 1633340676 2693215 1b84dc1df64a1f4894ccf42ab758ad70 ""
   "/usr/local/texlive/2021/texmf.cnf" 1616695596 577 4c1911a7228e554c6032256d3cf5567d ""
-  "cv-Kimura.aux" 1634094895 652 9af601cce4e905234811cb740f97ee79 "latex"
-  "cv-Kimura.out" 1634094895 0 d41d8cd98f00b204e9800998ecf8427e "latex"
-  "cv-Kimura.tex" 1634094893 9903 b8f88fceb1c7ae3bd7691a2e2408f96a ""
+  "cv-Kimura.aux" 1638254932 652 9af601cce4e905234811cb740f97ee79 "latex"
+  "cv-Kimura.out" 1638254932 0 d41d8cd98f00b204e9800998ecf8427e "latex"
+  "cv-Kimura.tex" 1638254927 10137 9c877641c1b710dda7ff458c7eac7678 ""
   (generated)
-  "cv-Kimura.out"
   "cv-Kimura.aux"
-  "cv-Kimura.log"
   "cv-Kimura.dvi"
+  "cv-Kimura.out"
+  "cv-Kimura.log"
