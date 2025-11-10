@@ -1,9 +1,9 @@
-This is e-upTeX, Version 3.141592653-p4.1.2-u2.00-250202-2.6 (utf8.uptex) (TeX Live 2025) (preloaded format=uplatex 2025.4.5)  19 JUN 2025 12:47
+This is e-upTeX, Version 3.141592653-p4.1.2-u2.00-250202-2.6 (utf8.uptex) (TeX Live 2025) (preloaded format=uplatex 2025.5.7)  10 NOV 2025 15:03
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**/Users/ticmrk/Documents/GitHub/CV-jp/cv-Kimura.tex
-(/Users/ticmrk/Documents/GitHub/CV-jp/cv-Kimura.tex
+**/Users/ticmrk/Documents/GitHub/research/CV/CV-jp/cv-Kimura.tex
+(/Users/ticmrk/Documents/GitHub/research/CV/CV-jp/cv-Kimura.tex
 pLaTeX2e <2023-02-14u04>+1, based on
 LaTeX2e <2024-11-01> patch level 2
 L3 programming layer <2025-01-18>
@@ -370,94 +370,93 @@ LaTeX Font Info:    Font shape `JY2/mc/bx/n' in size <14.4> not available
 (Font)              Font shape `JY2/gt/m/n' tried instead on input line 102.
 LaTeX Font Info:    Font shape `JY2/gt/m/n' will be
 (Font)              scaled to size 13.85594pt on input line 102.
-LaTeX Font Info:    Font shape `JT2/mc/b/n' in size <10> not available
-(Font)              Font shape `JT2/mc/bx/n' tried instead on input line 121.
-LaTeX Font Info:    Font shape `JT2/mc/bx/n' in size <10> not available
-(Font)              Font shape `JT2/gt/m/n' tried instead on input line 121.
-LaTeX Font Info:    Font shape `JT2/gt/m/n' will be
-(Font)              scaled to size 9.6222pt on input line 121.
-LaTeX Font Info:    Font shape `JY2/mc/b/n' in size <10> not available
-(Font)              Font shape `JY2/mc/bx/n' tried instead on input line 121.
-LaTeX Font Info:    Font shape `JY2/mc/bx/n' in size <10> not available
-(Font)              Font shape `JY2/gt/m/n' tried instead on input line 121.
-LaTeX Font Info:    Font shape `JY2/gt/m/n' will be
-(Font)              scaled to size 9.6222pt on input line 121.
-
-Overfull \hbox (3.926pt too wide) in paragraph at lines 121--122
-\T1/pplj/m/n/10 mance Eval-u-a-tions. Avail-able at: [][][][][][]. 
- []
-
+LaTeX Font Info:    Kanji font shape `JY2/mc/m/it' undefined
+(Font)              No change on input line 128.
+LaTeX Font Info:    Kanji font shape `JY2/mc/m/it' undefined
+(Font)              No change on input line 134.
 LaTeX Font Info:    Font shape `JT2/mc/m/n' will be
-(Font)              scaled to size 11.54663pt on input line 130.
+(Font)              scaled to size 11.54663pt on input line 146.
 LaTeX Font Info:    Font shape `JY2/mc/m/n' will be
-(Font)              scaled to size 11.54663pt on input line 130.
+(Font)              scaled to size 11.54663pt on input line 146.
 LaTeX Font Info:    Font shape `JT2/mc/b/n' in size <12> not available
-(Font)              Font shape `JT2/mc/bx/n' tried instead on input line 130.
+(Font)              Font shape `JT2/mc/bx/n' tried instead on input line 146.
 LaTeX Font Info:    Font shape `JT2/mc/bx/n' in size <12> not available
-(Font)              Font shape `JT2/gt/m/n' tried instead on input line 130.
+(Font)              Font shape `JT2/gt/m/n' tried instead on input line 146.
 LaTeX Font Info:    Font shape `JT2/gt/m/n' will be
-(Font)              scaled to size 11.54663pt on input line 130.
+(Font)              scaled to size 11.54663pt on input line 146.
 LaTeX Font Info:    Font shape `JY2/mc/b/n' in size <12> not available
-(Font)              Font shape `JY2/mc/bx/n' tried instead on input line 130.
+(Font)              Font shape `JY2/mc/bx/n' tried instead on input line 146.
 LaTeX Font Info:    Font shape `JY2/mc/bx/n' in size <12> not available
-(Font)              Font shape `JY2/gt/m/n' tried instead on input line 130.
+(Font)              Font shape `JY2/gt/m/n' tried instead on input line 146.
 LaTeX Font Info:    Font shape `JY2/gt/m/n' will be
-(Font)              scaled to size 11.54663pt on input line 130.
+(Font)              scaled to size 11.54663pt on input line 146.
 LaTeX Font Info:    Kanji font shape `JY2/mc/m/it' undefined
-(Font)              No change on input line 130.
+(Font)              No change on input line 146.
+LaTeX Font Info:    Font shape `JT2/mc/b/n' in size <10> not available
+(Font)              Font shape `JT2/mc/bx/n' tried instead on input line 149.
+LaTeX Font Info:    Font shape `JT2/mc/bx/n' in size <10> not available
+(Font)              Font shape `JT2/gt/m/n' tried instead on input line 149.
+LaTeX Font Info:    Font shape `JT2/gt/m/n' will be
+(Font)              scaled to size 9.6222pt on input line 149.
+LaTeX Font Info:    Font shape `JY2/mc/b/n' in size <10> not available
+(Font)              Font shape `JY2/mc/bx/n' tried instead on input line 149.
+LaTeX Font Info:    Font shape `JY2/mc/bx/n' in size <10> not available
+(Font)              Font shape `JY2/gt/m/n' tried instead on input line 149.
+LaTeX Font Info:    Font shape `JY2/gt/m/n' will be
+(Font)              scaled to size 9.6222pt on input line 149.
 LaTeX Font Info:    Kanji font shape `JY2/mc/m/it' undefined
-(Font)              No change on input line 133.
-LaTeX Font Info:    Kanji font shape `JY2/mc/m/it' undefined
-(Font)              No change on input line 142.
+(Font)              No change on input line 149.
 
 
 [1
 
 ]
 LaTeX Font Info:    Kanji font shape `JY2/mc/m/it' undefined
-(Font)              No change on input line 154.
+(Font)              No change on input line 158.
 LaTeX Font Info:    Kanji font shape `JY2/mc/m/it' undefined
-(Font)              No change on input line 157.
-LaTeX Font Info:    Kanji font shape `JY2/mc/m/it' undefined
-(Font)              No change on input line 160.
-LaTeX Font Info:    Kanji font shape `JY2/mc/m/it' undefined
-(Font)              No change on input line 167.
+(Font)              No change on input line 170.
 LaTeX Font Info:    Kanji font shape `JY2/mc/m/it' undefined
 (Font)              No change on input line 173.
+LaTeX Font Info:    Kanji font shape `JY2/mc/m/it' undefined
+(Font)              No change on input line 176.
+LaTeX Font Info:    Kanji font shape `JY2/mc/m/it' undefined
+(Font)              No change on input line 183.
+LaTeX Font Info:    Kanji font shape `JY2/mc/m/it' undefined
+(Font)              No change on input line 189.
 
 
 LaTeX Font Info:    Kanji font shape `JY2/mc/m/sl' undefined
-(Font)              No change on input line 194.
+(Font)              No change on input line 205.
 LaTeX Font Info:    Font shape `T1/pplj/m/sl' in size <10> not available
-(Font)              Font shape `T1/pplj/m/it' tried instead on input line 194.
+(Font)              Font shape `T1/pplj/m/it' tried instead on input line 205.
 [2]
-Overfull \hbox (7.71579pt too wide) in paragraph at lines 202--203
+Overfull \hbox (7.71579pt too wide) in paragraph at lines 218--219
 []\T1/pplj/m/n/10 2017 \JY2/mc/m/n/10 年 \T1/pplj/m/n/10 11 \JY2/mc/m/n/10 月
 \T1/pplj/m/n/10 : 29th Asian--Pacific Con-fer-ence on In-ter-na-tional Ac-count
 -ing Is-sue (Kuala Lumpur, Malaysia)
  []
 
 LaTeX Font Info:    Kanji font shape `JY2/mc/m/it' undefined
-(Font)              No change on input line 213.
+(Font)              No change on input line 229.
 LaTeX Font Info:    Kanji font shape `JY2/mc/m/it' undefined
-(Font)              No change on input line 227.
+(Font)              No change on input line 243.
 LaTeX Font Info:    Kanji font shape `JY2/mc/m/it' undefined
-(Font)              No change on input line 234.
+(Font)              No change on input line 250.
 
 
 LaTeX Font Info:    Kanji font shape `JY2/mc/m/sl' undefined
-(Font)              No change on input line 241.
+(Font)              No change on input line 254.
 [3]
 LaTeX Font Info:    Kanji font shape `JY2/mc/m/it' undefined
-(Font)              No change on input line 245.
+(Font)              No change on input line 261.
 LaTeX Font Info:    Font shape `JT2/mc/m/n' will be
-(Font)              scaled to size 7.69775pt on input line 267.
+(Font)              scaled to size 7.69775pt on input line 283.
 LaTeX Font Info:    Font shape `JY2/mc/m/n' will be
-(Font)              scaled to size 7.69775pt on input line 267.
+(Font)              scaled to size 7.69775pt on input line 283.
 
 
 LaTeX Font Info:    Kanji font shape `JY2/mc/m/sl' undefined
-(Font)              No change on input line 272.
+(Font)              No change on input line 288.
 [4] (./cv-Kimura.aux)
  ***********
 pLaTeX2e <2023-02-14u04>+1, based on
@@ -469,11 +468,11 @@ Package rerunfilecheck Info: File `cv-Kimura.out' has not changed.
  ) 
 Here is how much of TeX's memory you used:
  8988 strings out of 473836
- 139411 string characters out of 5731191
+ 139447 string characters out of 5731191
  557326 words of memory out of 5000000
  32157 multiletter control sequences out of 15000+600000
  584979 words of font info for 89 fonts, out of 8000000 for 9000
  929 hyphenation exceptions out of 8191
- 72i,10n,79p,352b,517s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 72i,10n,79p,364b,522s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on cv-Kimura.dvi (4 pages, 24704 bytes).
+Output written on cv-Kimura.dvi (4 pages, 25316 bytes).
