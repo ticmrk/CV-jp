@@ -1,31 +1,30 @@
 % LaTeX Curriculum Vitae Template
 %
-% Copyright (C) 2004-2009 Jason Blevins <jrblevin@sdf.lonestar.org>
+% Based on Jason Blevins' CV template (LuaLaTeX migration)
 % http://jblevins.org/projects/cv-template/
 %
-% You may use use this document as a template to create your own CV
-% and you may redistribute the source code freely. No attribution is
-% required in any resulting documents. I do ask that you please leave
-% this notice and the above URL in the source code if you choose to
-% redistribute this file.
+% Copyright (C) 2004-2009 Jason Blevins <jrblevin@sdf.lonestar.org>
+% You may use this document as a template to create your own CV
+% and you may redistribute the source code freely.
 
-\documentclass[letterpaper,uplatex]{article}
+\documentclass[letterpaper,11pt]{article}
 
-\usepackage{hyperref}
+% --- LuaTeX-ja: Japanese (Hiragino ProN, deluxe weights) ---
+\usepackage[hiragino-pron,deluxe]{luatexja-preset}
+
+% --- Western body font: Palatino (TeX Gyre Pagella) ---
+\usepackage{fontspec}
+\setmainfont{TeX Gyre Pagella}[
+  Numbers=OldStyle,
+  Ligatures=TeX
+]
+
 \usepackage{geometry}
-
-% Comment the following lines to use the default Computer Modern font
-% instead of the Palatino font provided by the mathpazo package.
-% Remove the 'osf' bit if you don't like the old style figures.
-\usepackage[T1]{fontenc}
-\usepackage[sc,osf]{mathpazo}
+\usepackage{hyperref}
+\usepackage{url}
 
 % Set your name here
 \def\name{木村　太一}
-
-% Replace this with a link to your CV if you like, or set it empty
-% (as in \def\footerlink{}) to remove the link in the footer:
-\def\footerlink{http://jblevins.org/projects/cv-template/}
 
 % The following metadata will show up in the PDF properties
 \hypersetup{
@@ -49,19 +48,10 @@
 \markright{\name}
 \thispagestyle{empty}
 
-\usepackage{url}
-
 % Custom section fonts
 \usepackage{sectsty}
 \sectionfont{\rmfamily\mdseries\Large}
 \subsectionfont{\rmfamily\mdseries\itshape\large}
-
-% Other possible font commands include:
-% \ttfamily for teletype,
-% \sffamily for sans serif,
-% \bfseries for bold,
-% \scshape for small caps,
-% \normalsize, \large, \Large, \LARGE sizes.
 
 % Don't indent paragraphs.
 \setlength\parindent{0em}
@@ -80,13 +70,10 @@
 % Place name at left
 {\LARGE \name {\normalsize （きむら　たいち）}}
 
-% Alternatively, print name centered and bold:
-%\centerline{\huge \bf \name}
-
 \vspace{0.25in}
 
 \begin{minipage}{0.45\linewidth}
-  \href{}{〒223-8526} \\
+  〒223-8526 \\
   神奈川県横浜市港北区日吉4-1-1 \\
   協生館研究室26
 \end{minipage}
@@ -118,12 +105,22 @@
 \section*{Working papers}
 
 \begin{itemize}
+    \item Making Target Costs Work in Government Procurement (with Takahiro Morimitsu)
+        \begin{itemize}
+            \item Available at SSRN: \url{https://ssrn.com/abstract=6586379}
+        \end{itemize}
+
+    \item Incentive Design with Biased Reviewers and Compensation Committee (with Takahiro Morimitsu)
+        \begin{itemize}
+            \item Available at SSRN: \url{https://ssrn.com/abstract=6347639}
+        \end{itemize}
+
     \item Target Setting under Skeptical Scrutiny (with Hikaru Mitsuhashi)
         \begin{itemize}
             \item Available at SSRN: \url{https://ssrn.com/abstract=60646214}
         \end{itemize}
-        
-    \item Centralize or decentralize? Co-location with accounting precision and incentive power
+
+    \item Compensation Structure and the Governance of Measurement Authority
         \begin{itemize}
             \item Available at SSRN: \url{https://ssrn.com/abstract=5734862}
         \end{itemize}
@@ -137,13 +134,13 @@
         \begin{itemize}
             \item Available at SSRN: \url{https://ssrn.com/abstract=5083726}.
         \end{itemize}
-    
+
     \item On the use of calibration committees in subjective performance evaluation (with Takahiro Morimitsu).
         \begin{itemize}
             \item Available at SSRN: \url{https://ssrn.com/abstract=4290250}.
         \end{itemize}
-    
-    \item Conformity pressure and compensation contracts (with Yutaro Murakami). 
+
+    \item Conformity pressure and compensation contracts (with Yutaro Murakami).
         \begin{itemize}
             \item Available at SSRN: \url{https://ssrn.com/abstract=4113994}.
         \end{itemize}
@@ -155,7 +152,7 @@
 
 \begin{itemize}
     \item \underline{\textbf{Kimura, Taichi}} and Morimitsu, Takahiro. 2023. Cost--based Pricing in Government Procurement with Unobservable Cost--reducing Actions and Productivity. \textit{Asia--Pacific Journal of Accounting and Economics}, 30(2): 373-390.
-    
+
     \item \underline{\textbf{木村 太一}}． 2019．「業績評価情報の伝達・利用が組織アイデンティフィケーションに与える影響に関する定量的研究」『慶應経営論集』36(1): 39--56.
 
 	\item 尻無濱 芳崇，\underline{\textbf{木村 太一}}，劉 美玲，市原 勇一．2017．「形成型尺度開発ガイドラインと管理会計研究への示唆」『一橋商学論叢』12(2): 62--71．
@@ -169,7 +166,7 @@
     \item \underline{\textbf{木村 太一}}，村上 裕太郎．2022．「ピア・プレッシャーがインセンティブ設計に与える影響：分析的研究を中心とした文献レビュー」『産業経理』82(2): 111-124．
 
     \item 森光 高大，\underline{\textbf{木村 太一}}．2021．「主観的業績評価におけるバイアス：分析的研究のレビューに基づく考察」『西南学院大学商学論集』68(1-2): 65--88．
-    
+
 	\item 劉 美玲，市原 勇一，\underline{\textbf{木村 太一}}，尻無濱 芳崇．2015．「管理会計研究における形成型尺度の利用と現状：構成概念の測定モデルの選択」『メルコ管理会計研究』8(1): 77-87．
 
 	\item \underline{\textbf{木村 太一}}．2015．「組織文化概念を援用した経験的な管理会計研究のレビュー : 組織文化観を軸として」『企業会計』67(8): 1179-1185．
@@ -199,26 +196,30 @@
 \subsection*{学会発表}
 
 \begin{itemize}
+    \item 2026年5月: 48th Annual Congress of European Accounting Association (Rome, Italy) ``Performance targets as screening devices'' (with Hikaru Mitsuhashi).
+
+    \item 2026年5月: 48th Annual Congress of European Accounting Association (Rome, Italy) ``Incentive design with biased reviewers and compensation committee'' (with Takahiro Morimitsu).
+
     \item 2026年2月: 第10回AEAJ Workshop（福井市地域交流プラザ）``Centralize or decentralize? Co-location with accounting precision and incentive power.''
-    
-    \item 2025年12月: 日本経済会計学会第6回秋季大会（中央大学） ``Designing calibration committees: Size, standards, and rater bias.''
 
-    \item 2025年5月: 47th Annual Congress of European Accounting Association (Rome, Italy) ``The Role of Loss Aversion in Multi-Rater Subjective Performance Evaluations.''
+    \item 2025年12月: 日本経済会計学会第6回秋季大会（中央大学） ``Designing calibration committees: Size, standards, and rater bias'' (with Takahiro Morimitsu)
 
-    \item 2024年11月: 33rd Asian-Pacific Conference on International Accounting Issues (Vancouver, Canada) ``A calibration committee with a loss-averse agent.''
-    
-    \item 2024年8月:  第83回日本会計研究学会（早稲田大学） ``A calibration committee with a loss-averse agent.''
+    \item 2025年5月: 47th Annual Congress of European Accounting Association (Rome, Italy) ``The Role of Loss Aversion in Multi-Rater Subjective Performance Evaluations'' (with Takahiro Morimitsu)
 
-    \item 2023年10月: 32nd Asian-Pacific Conference on International Accounting Issues (Gold coast, Australia) ``On the use of calibration committees in subjective performance evaluation.''
+    \item 2024年11月: 33rd Asian-Pacific Conference on International Accounting Issues (Vancouver, Canada) ``A calibration committee with a loss-averse agent'' (with Takahiro Morimitsu)
 
-    \item 2023年5月: 45th Annual Congress of European Accounting Association (Helsinki-Espoo, Finland) ``On the use of calibration committees in subjective performance evaluation.''
-    
+    \item 2024年8月:  第83回日本会計研究学会（早稲田大学） ``A calibration committee with a loss-averse agent'' (with Takahiro Morimitsu)
+
+    \item 2023年10月: 32nd Asian-Pacific Conference on International Accounting Issues (Gold coast, Australia) ``On the use of calibration committees in subjective performance evaluation'' (with Takahiro Morimitsu)
+
+    \item 2023年5月: 45th Annual Congress of European Accounting Association (Helsinki-Espoo, Finland) ``On the use of calibration committees in subjective performance evaluation'' (with Takahiro Morimitsu)
+
     \item 2022年8月: 第81回日本会計研究学会（東京大学，オンライン）「主観的業績評価におけるアピールの役割：分析的研究による考察」．
-    
+
    \item 2022年8月: 2022年度日本管理会計学会（明治大学）「主観的業績評価におけるアピールとコストに関する分析」．
 
   \item 2020年9月: 第79回日本会計研究学会（北海道大学，オンライン）「非対称情報下における政府調達契約の設定」．
-  
+
   \item 2019年10月: 31st Asian--Pacific Conference on International Accounting Issue (Warsaw, Poland) ``Conformity Pressure and Compensation Contracts.''
 
   \item 2019年9月: 第78回日本会計研究学会（神戸学院大学）「個別受注契約における目標原価の設定」．
@@ -227,7 +228,7 @@
 
   \item 2018年11月: 30th Asian--Pacific Conference on International Accounting Issue (San Francisco, USA) ``Diagreement and Performance Evaluation Systems.''
 
-  \item 2018年9月: 第77回日本会計研究学会（神奈川大学）「組織成員の楽観性が業績評価システムに与える影響：数理モデル分析による検討」．
+  \item 2018年9月: 第77回日本会計研究学会(神奈川大学)「組織成員の楽観性が業績評価システムに与える影響：数理モデル分析による検討」．
 
 	\item 2017年11月: 29th Asian--Pacific Conference on International Accounting Issue (Kuala Lumpur, Malaysia) ``Government Procurement Contract Design for Encouraging Cost Reduction.''
 
@@ -287,7 +288,7 @@
     \item 「管理会計計算ノート」2021．
     \item 「綱島金属株式会社」2021．
     \item 「小机タイヤ株式会社」2021．
-   \item 「原価計算の基礎知識」2020 （2024改訂）． 
+   \item 「原価計算の基礎知識」2020 （2024改訂）．
    \item 「三菱電機」2018（森光高大と共著）．
    \item 「JALの再建とアメーバ経営」2016（2023改訂）．
 \end{itemize}
