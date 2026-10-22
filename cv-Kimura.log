@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.24.0 (TeX Live 2026)  (format=lualatex 2026.5.24)  22 OCT 2026 12:53
+This is LuaHBTeX, Version 1.24.0 (TeX Live 2026)  (format=lualatex 2026.5.24)  22 OCT 2026 12:58
  restricted system commands enabled.
  file:line:error style messages enabled.
 **cv-Kimura.tex
@@ -1335,29 +1335,27 @@ LaTeX Font Info:    Font shape `JY3/HiraMinProN-W3(0)/b/n' will be
 
 {/usr/local/texlive/2026/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
 LaTeX Font Info:    Font shape `JT3/HiraMinProN-W3(0)/m/n' will be
-(Font)              scaled to size 11.54663pt on input line 157.
+(Font)              scaled to size 11.54663pt on input line 163.
 LaTeX Font Info:    Font shape `JY3/HiraMinProN-W3(0)/m/n' will be
-(Font)              scaled to size 11.54663pt on input line 157.
+(Font)              scaled to size 11.54663pt on input line 163.
 LaTeX Font Info:    Font shape `JT3/HiraMinProN-W3(0)/b/n' will be
-(Font)              scaled to size 11.54663pt on input line 157.
+(Font)              scaled to size 11.54663pt on input line 163.
 LaTeX Font Info:    Font shape `JY3/HiraMinProN-W3(0)/b/n' will be
-(Font)              scaled to size 11.54663pt on input line 157.
+(Font)              scaled to size 11.54663pt on input line 163.
 LaTeX Font Info:    Kanji font shape `JY3/HiraMinProN-W3(0)/m/it' undefined
-(Font)              No change on input line 157.
+(Font)              No change on input line 163.
 LaTeX Font Info:    Font shape `JT3/HiraMinProN-W3(0)/b/n' will be
-(Font)              scaled to size 10.53629pt on input line 160.
+(Font)              scaled to size 10.53629pt on input line 166.
 LaTeX Font Info:    Font shape `JY3/HiraMinProN-W3(0)/b/n' will be
-(Font)              scaled to size 10.53629pt on input line 160.
+(Font)              scaled to size 10.53629pt on input line 166.
 LaTeX Font Info:    Kanji font shape `JY3/HiraMinProN-W3(0)/m/it' undefined
-(Font)              No change on input line 160.
+(Font)              No change on input line 166.
 LaTeX Font Info:    Kanji font shape `JY3/HiraMinProN-W3(0)/m/it' undefined
-(Font)              No change on input line 169.
-LaTeX Font Info:    Kanji font shape `JY3/HiraMinProN-W3(0)/m/it' undefined
-(Font)              No change on input line 181.
-LaTeX Font Info:    Kanji font shape `JY3/HiraMinProN-W3(0)/m/it' undefined
-(Font)              No change on input line 184.
+(Font)              No change on input line 175.
 LaTeX Font Info:    Kanji font shape `JY3/HiraMinProN-W3(0)/m/it' undefined
 (Font)              No change on input line 187.
+LaTeX Font Info:    Kanji font shape `JY3/HiraMinProN-W3(0)/m/it' undefined
+(Font)              No change on input line 190.
 LaTeX Font Info:    Font shape `TU/TeXGyrePagella(0)/m/sl' in size <10.95> not 
 available
 (Font)              Font shape `TU/TeXGyrePagella(0)/m/it' tried instead on inp
@@ -1367,19 +1365,21 @@ LaTeX Font Info:    Kanji font shape `JY3/HiraMinProN-W3(0)/m/sl' undefined
 
 [2]
 LaTeX Font Info:    Kanji font shape `JY3/HiraMinProN-W3(0)/m/it' undefined
-(Font)              No change on input line 194.
+(Font)              No change on input line 193.
 LaTeX Font Info:    Kanji font shape `JY3/HiraMinProN-W3(0)/m/it' undefined
-(Font)              No change on input line 202.
+(Font)              No change on input line 200.
+LaTeX Font Info:    Kanji font shape `JY3/HiraMinProN-W3(0)/m/it' undefined
+(Font)              No change on input line 208.
 
-Overfull \hbox (8.36942pt too wide) in paragraph at lines 215--216
+Overfull \hbox (8.36942pt too wide) in paragraph at lines 221--222
 \TU/TeXGyrePagella(0)/m/n/10.95 Role of Loss Aver-sion in Multi-Rater Sub-jec-ti
 ve Per-for-mance Eval-u-a-tions'' (with Takahiro Morim-
  []
 
 LaTeX Font Info:    Kanji font shape `JY3/HiraMinProN-W3(0)/m/sl' undefined
-(Font)              No change on input line 227.
+(Font)              No change on input line 229.
 [3]
-Overfull \hbox (3.68112pt too wide) in paragraph at lines 231--232
+Overfull \hbox (3.68112pt too wide) in paragraph at lines 237--238
 []\TU/TeXGyrePagella(0)/m/n/10.95 󰄳󰄱󰄲󰄺 |\JY3/HiraMinProN-W3(0)/m/n/
 10.95 年 \TU/TeXGyrePagella(0)/m/n/10.95 󰄲󰄱 |\JY3/HiraMinProN-W3(0)/m/n/
 10.95 月\TU/TeXGyrePagella(0)/m/n/10.95 : 󰄴󰄲st Asian--Pacific Con-fer-enc
@@ -1387,11 +1387,11 @@ e on In-ter-na-tional Ac-count-ing Is-sue (War-saw, Poland)
  []
 
 LaTeX Font Info:    Kanji font shape `JY3/HiraMinProN-W3(0)/m/it' undefined
-(Font)              No change on input line 252.
+(Font)              No change on input line 258.
 LaTeX Font Info:    Kanji font shape `JY3/HiraMinProN-W3(0)/m/sl' undefined
-(Font)              No change on input line 261.
+(Font)              No change on input line 264.
 [4]
-Overfull \hbox (6.85956pt too wide) in paragraph at lines 267--268
+Overfull \hbox (6.85956pt too wide) in paragraph at lines 273--274
 [] [] |\JY3/HiraMinProN-W3(0)/m/n/10.95 主 |観 |的 |業 |績 |評 |価 |に 
 |お |け |る |バ |イ |ア |ス |の |発 |生 |メ |カ |ニ |ズ |ム |
 と |そ |の |緩 |和 |策 |に |つ |い |て |の |理 |論 |的 |研 |究 
@@ -1399,25 +1399,28 @@ Overfull \hbox (6.85956pt too wide) in paragraph at lines 267--268
  []
 
 LaTeX Font Info:    Kanji font shape `JY3/HiraMinProN-W3(0)/m/it' undefined
-(Font)              No change on input line 280.
-LaTeX Font Info:    Kanji font shape `JY3/HiraMinProN-W3(0)/m/it' undefined
-(Font)              No change on input line 291.
+(Font)              No change on input line 286.
 LaTeX Font Info:    Kanji font shape `JY3/HiraMinProN-W3(0)/m/sl' undefined
-(Font)              No change on input line 296.
+(Font)              No change on input line 294.
 [5]
 LaTeX Font Info:    Kanji font shape `JY3/HiraMinProN-W3(0)/m/it' undefined
-(Font)              No change on input line 308.
+(Font)              No change on input line 297.
 LaTeX Font Info:    Kanji font shape `JY3/HiraMinProN-W3(0)/m/it' undefined
-(Font)              No change on input line 315.
+(Font)              No change on input line 314.
 LaTeX Font Info:    Kanji font shape `JY3/HiraMinProN-W3(0)/m/it' undefined
-(Font)              No change on input line 320.
-LaTeX Font Info:    Font shape `JT3/HiraMinProN-W3(0)/m/n' will be
-(Font)              scaled to size 8.65997pt on input line 334.
-LaTeX Font Info:    Font shape `JY3/HiraMinProN-W3(0)/m/n' will be
-(Font)              scaled to size 8.65997pt on input line 334.
+(Font)              No change on input line 321.
+LaTeX Font Info:    Kanji font shape `JY3/HiraMinProN-W3(0)/m/it' undefined
+(Font)              No change on input line 326.
 LaTeX Font Info:    Kanji font shape `JY3/HiraMinProN-W3(0)/m/sl' undefined
-(Font)              No change on input line 339.
- [6] (./cv-Kimura.aux)
+(Font)              No change on input line 336.
+ [6]
+LaTeX Font Info:    Font shape `JT3/HiraMinProN-W3(0)/m/n' will be
+(Font)              scaled to size 8.65997pt on input line 342.
+LaTeX Font Info:    Font shape `JY3/HiraMinProN-W3(0)/m/n' will be
+(Font)              scaled to size 8.65997pt on input line 342.
+LaTeX Font Info:    Kanji font shape `JY3/HiraMinProN-W3(0)/m/sl' undefined
+(Font)              No change on input line 347.
+ [7] (./cv-Kimura.aux)
  ***********
 LaTeX2e <2025-11-01>
 L3 programming layer <2026-01-19>
@@ -1427,16 +1430,16 @@ Package rerunfilecheck Info: File `cv-Kimura.out' has not changed.
 )
 
 Here is how much of LuaTeX's memory you used:
- 13430 strings out of 476076
- 195705,794899 words of node,token memory allocated
+ 13432 strings out of 476076
+ 156557,794899 words of node,token memory allocated
  807 words of node memory still in use:
    7 hlist, 1 vlist, 4 rule, 2 glue, 3 kern, 1 glyph, 129 attribute, 52 glue_spe
 c, 20 attribute_list, 1 write, 9 user_defined nodes
-   avail lists: 1:20,2:45753,3:502,4:525,5:351,6:87,7:5943,8:33,9:1570,10:9,11:3
-20
+   avail lists: 1:30,2:44762,3:460,4:486,5:346,6:78,7:5656,8:33,9:1415,10:9,11:2
+95
  35606 multiletter control sequences out of 65536+600000
  85 fonts using 115069503 bytes
- 107i,9n,127p,2026b,505s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 107i,9n,127p,2026b,503s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </System/Library/Fonts/ヒラギノ明朝 ProN.ttc></System/Library/Fonts/
 ヒラギノ明朝 ProN.ttc></usr/local/texlive/2026/texmf-dist/fonts/opentyp
 e/public/tex-gyre/texgyrepagella-italic.otf></usr/local/texlive/2026/texmf-dist/
@@ -1445,10 +1448,10 @@ texmf-dist/fonts/opentype/public/lm/lmmono10-regular.otf></usr/local/texlive/202
 6/texmf-dist/fonts/opentype/public/tex-gyre/texgyrepagella-regular.otf></System/
 Library/Fonts/ヒラギノ明朝 ProN.ttc></System/Library/Fonts/ヒラキ
 ゙ノ明朝 ProN.ttc>
-Output written on cv-Kimura.pdf (6 pages, 184401 bytes).
+Output written on cv-Kimura.pdf (7 pages, 185611 bytes).
 
-PDF statistics: 108 PDF objects out of 1000 (max. 8388607)
- 81 compressed objects within 1 object stream
- 27 named destinations out of 1000 (max. 1048576)
+PDF statistics: 113 PDF objects out of 1000 (max. 8388607)
+ 85 compressed objects within 1 object stream
+ 29 named destinations out of 1000 (max. 1048576)
  1 words of extra memory for PDF output out of 10000 (max. 100000000)
 
