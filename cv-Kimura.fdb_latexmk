@@ -1,5 +1,5 @@
 # Fdb version 4
-["lualatex"] 1792641531.7141 "cv-Kimura.tex" "cv-Kimura.pdf" "cv-Kimura" 1792641533.83969 0
+["lualatex"] 1792677357.8148 "cv-Kimura.tex" "cv-Kimura.pdf" "cv-Kimura" 1792677359.99906 0
   "/System/Library/Fonts/ヒラギノ明朝 ProN.ttc" 1771990892 19409608 e532e5bed95c9ceb488fdbb190a27314 ""
   "/Users/ticmrk/Library/texlive/2026/texmf-var/luatex-cache/generic/fonts/otl/haranoajigothic-medium.luc" 1774159442.14132 1943012 da797a8d6a3b8b77902ca017e08212e7 ""
   "/Users/ticmrk/Library/texlive/2026/texmf-var/luatex-cache/generic/fonts/otl/haranoajimincho-regular.luc" 1774159441.01231 2011333 894d15dad9305c974661898ad792fe7c ""
@@ -18,7 +18,7 @@
   "/Users/ticmrk/Library/texlive/2026/texmf-var/luatex-cache/generic/fonts/otl/ヒラギノ角ゴシック-w3-3.luc" 1780767855.50541 2465812 5bd0ff996c00cd6988334fdd7db2eecf ""
   "/Users/ticmrk/Library/texlive/2026/texmf-var/luatex-cache/generic/fonts/otl/ヒラギノ角ゴシック-w6-3.luc" 1779698486.6764 2438048 65c687eeb46ae4b7e864f9ec5ab5efec ""
   "/Users/ticmrk/Library/texlive/2026/texmf-var/luatex-cache/generic/fonts/otl/ヒラギノ角ゴシック-w8-4.luc" 1780767853.38226 1016873 bd1eb47835f9134a04f380112b45d252 ""
-  "/Users/ticmrk/Library/texlive/2026/texmf-var/luatex-cache/generic/names/luaotfload-lookup-cache.luc" 1792641533.56946 5874 26cba11e7c7fe51c533a53f2b0ff61de "lualatex"
+  "/Users/ticmrk/Library/texlive/2026/texmf-var/luatex-cache/generic/names/luaotfload-lookup-cache.luc" 1792677359.71233 5874 26cba11e7c7fe51c533a53f2b0ff61de "lualatex"
   "/Users/ticmrk/Library/texlive/2026/texmf-var/luatex-cache/generic/names/luaotfload-names.luc.gz" 1779698488.33059 443274 16b28845e65756423cdb80a71480f4f4 ""
   "/Users/ticmrk/Library/texlive/2026/texmf-var/luatexja/extra_haranoajigothic-medium.luc" 1774159442.19501 321585 20bdf5bfba13fa87cff9b5a971998598 ""
   "/Users/ticmrk/Library/texlive/2026/texmf-var/luatexja/extra_haranoajimincho-regular.luc" 1774159441.06944 322628 a59d32715919e8b6111c3f0c6e01b848 ""
@@ -198,9 +198,9 @@
   "/usr/local/texlive/2026/texmf-dist/tex/luatex/luatexja/patches/lltjp-geometry.sty" 1720988330 18655 988d7f23464591f321cce5720dc67e3d ""
   "/usr/local/texlive/2026/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1779628907 5573038 b99aad5e4898a9034e953632f940512b ""
   "/usr/local/texlive/2026/texmf-var/web2c/luahbtex/lualatex.fmt" 1779628821 5655529 528377331850732d06cb3c34cd254793 ""
-  "cv-Kimura.aux" 1792641533.58602 162 1048d5a6ab834159417e60c8f895d4f4 "lualatex"
-  "cv-Kimura.out" 1792641533.28437 0 d41d8cd98f00b204e9800998ecf8427e "lualatex"
-  "cv-Kimura.tex" 1792641530.71122 17097 16b2c907e37f3e14ab470257d6afb5ab ""
+  "cv-Kimura.aux" 1792677359.72844 162 1048d5a6ab834159417e60c8f895d4f4 "lualatex"
+  "cv-Kimura.out" 1792677359.43387 0 d41d8cd98f00b204e9800998ecf8427e "lualatex"
+  "cv-Kimura.tex" 1792677356.75139 17120 a11b0be23c10b1fbddbc19e22243113d ""
   (generated)
   "/Users/ticmrk/Library/texlive/2026/texmf-var/luatex-cache/generic/names/luaotfload-lookup-cache.lua"
   "/Users/ticmrk/Library/texlive/2026/texmf-var/luatex-cache/generic/names/luaotfload-lookup-cache.luc"
